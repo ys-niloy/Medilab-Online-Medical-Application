@@ -2,8 +2,8 @@
 This project contains an interface which was implemented in Java language with the help of Swing GUI.
 The project was created due to academic purposes.
 
--Run the Start.java file from the .java extension files.
--Users can register as new users and then log in to the system to apply for a medical check-up application or doorstep Covid test.
+-Run the Start.java file from the .java extension files. <br>
+-Users can register as new users and then log in to the system to apply for a medical check-up application or doorstep Covid test. <br>
 -The default username and password for admin is - admin.
 
 The homepage of the system - 
